@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a full-stack software developer based in Toronto, Canada.
+Recently, I created [Otter](https://otter-framework.dev), an open-source, cloud native framework for peer-to-peer video communication within web applications.
+
 <!--
 **HelloEchoCS/HelloEchoCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
